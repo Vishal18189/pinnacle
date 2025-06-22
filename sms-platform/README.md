@@ -1,2 +1,2 @@
 # SMS Platform Project
-Generated for interview assessment.
+Created for Pinnacle interview assessment.
